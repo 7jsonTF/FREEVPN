@@ -1,4 +1,8 @@
-
+Dưới đây là những trang wed tạo (vmess, vless, trojan) miễn phí
+Đa số là dùng dễ xem youtube, tik tok, facebook, vì những vpn này ping rất cao.
+Nếu chọn máy chủ hợp lý có thể sẽ chơi được game ping tối thiểu từ 100-150
+Tốc độ mạng ở thời điểm thích hợp từ 2.5MB-5MB.
+Tạo file và thêm SNI vào sau đó sử dụng thôi.Chúc bạn may mắn!
 
 https://www.freevmess.com/
 https://sshocean.com/
